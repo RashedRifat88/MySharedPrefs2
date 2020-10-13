@@ -1,0 +1,4 @@
+include ':MySharedPrefs2'
+include ':mySharedPref'
+include ':app'
+rootProject.name = "MySharedPref"
